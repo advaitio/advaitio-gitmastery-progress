@@ -122,5 +122,14 @@
       "Answer for In January, who were in the Tuesday duty roster? Remove/add extra rows where appropriate. contains an invalid item."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "view-commits",
+    "started_at": 1787109033.890694,
+    "completed_at": 1787109036.908397,
+    "comments": [
+      "Answer for In January, who were in the Tuesday duty roster? Remove/add extra rows where appropriate. is empty."
+    ],
+    "status": "Incomplete"
   }
 ]
