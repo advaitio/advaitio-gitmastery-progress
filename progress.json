@@ -113,5 +113,14 @@
       "Great work fetching and pulling different upstreams!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "view-commits",
+    "started_at": 1787108976.387013,
+    "completed_at": 1787108979.953055,
+    "comments": [
+      "Answer for In January, who were in the Tuesday duty roster? Remove/add extra rows where appropriate. contains an invalid item."
+    ],
+    "status": "Incomplete"
   }
 ]
